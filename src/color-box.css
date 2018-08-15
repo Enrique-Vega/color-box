@@ -1,0 +1,10 @@
+.color-box {
+  min-height: 1000px;
+  width: 100%;
+  margin: 0;
+  border: 1px solid black;
+}
+
+.green {
+  background-color: green;
+}
